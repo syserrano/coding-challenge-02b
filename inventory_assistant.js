@@ -1,5 +1,5 @@
 // item name
-let itemName = "USB-C Cable";
+let itemName = "Moon Lamp";
 
 // cost per unit
 let unitCost = 8.88;
@@ -18,4 +18,5 @@ let weeklyDemand = 200;
 
 // weeks to receive an order
 let supplierLeadTimeWeeks = 2;
+
 
